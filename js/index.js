@@ -1,4 +1,4 @@
-var sketch = Sketch.create({autopause: true}),
+var sketch = Sketch.create({autopause: false}),
     center = {
       x: sketch.width / 2,
       y: sketch.height / 2
