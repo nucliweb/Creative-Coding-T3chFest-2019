@@ -1,0 +1,12 @@
+{
+  "name": "canvas-orbital-trails-v2",
+  "version": "1.0.0",
+  "description": "A Pen created at CodePen.io. You can find this one at https://codepen.io/jackrugile/pen/aCzHs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

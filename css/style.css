@@ -1,0 +1,13 @@
+body {
+  background: #000;
+}
+
+canvas {  
+  display: block; 
+}
+
+#gui {
+  left: 0;
+  position: fixed;
+  top: 0;
+}
